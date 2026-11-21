@@ -1,0 +1,2 @@
+python:5.0hours
+c:2.0hours
